@@ -1,0 +1,13 @@
+# Данные (ноутбук скачивает их автоматически)
+datasets/
+
+# Материалы задания
+Task/
+
+# Служебные файлы Jupyter, Python и редакторов
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+
+# Логи обучения CatBoost
+catboost_info/
